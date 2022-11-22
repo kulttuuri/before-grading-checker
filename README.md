@@ -4,7 +4,7 @@
 
 This script can be used to check the folders inside the directory recursively for matching files and lines inside files. Used by me at university for checking student submissions for matching files and folders for faster grading. All students who have not returned certain file(s) or do not have certain  line(s) in their submissions will have more throughout inspection done.
 
-Produces the output in a HTML file and also in console. Example of the produced output is visible below:
+Produces the output in a HTML file and also in console. In the HTML page you can mark which have been already handled and add notes. The changes will be lost on page refresh, but there is a prompt when trying to exit the page on if you really want to exit the page. Example of the produced output is visible below:
 
 ![image](https://user-images.githubusercontent.com/3810422/203306438-e9e677f6-c334-4db6-9fc5-efa35c2f3e55.png)
 
