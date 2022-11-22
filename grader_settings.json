@@ -1,0 +1,9 @@
+{
+  // All filenames that will be searched. The filenames should be lowercase and are matched without case sensitivity.
+  // So for example index.html and INDEX.html are the same file.
+  "requiredFiles": [ "boxmodel.html", "cascade.html" ],
+  // All lines searched in the files. The lines are checked if they are contained in any line on the files.
+  "requiredLines": [  ],
+  // Should we also generate HTML report? (grader_output.html file)
+  "generateHTMLReport": true
+}
